@@ -8,3 +8,10 @@
   background-color: #FFD4D4 !important;
 }
 
+div #timeLineTwo {
+  background-image: url(../img/4982316_Freepik.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
